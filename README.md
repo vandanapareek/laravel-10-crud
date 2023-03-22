@@ -1,4 +1,4 @@
-# Historical OHLC Price Data
+# Laravel 10 crud
 
 We will create a product crud application using laravel 10. we will create a products table with name and detail columns using laravel 10 migration, then we will create routes, controller, view, and model files for the product module. we will use bootstrap 5 for designing.
  
